@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Modell;
+namespace App\Model;
 
 class Starship
 {
